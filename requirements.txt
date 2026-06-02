@@ -1,0 +1,7 @@
+﻿duckdb
+pandas
+numpy
+plotly
+jinja2
+apscheduler
+jupyter
